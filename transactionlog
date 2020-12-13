@@ -1,0 +1,11 @@
+mens shorts
+ripped jeans
+blazers
+t-shirt,2020-12-05 12:20:34.675
+ADD,t-shirt Item Number 4,new-shirt,black,best shirt ever!,34.55,image.url
+MODIFY,t-shirt Item Number 4,price,100
+DELETE,05-Dec-2020 12:00:00,05-Dec-2020 13:00:00
+mens sneakers,2020-12-05 12:23:43.009
+womens shorts,2020-12-05 12:23:59.748
+ADD,womens shorts Item Number 4,girl shorts,pink,cute-shorts,50,image.url
+MODIFY,womens shorts Item Number 0,description,CUTEST SHORTS EVER!

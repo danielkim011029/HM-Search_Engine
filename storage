@@ -1,0 +1,49 @@
+Inventory Number: womens shorts Item Number 4
+username: ADMIN
+name: girl shorts
+color: pink
+description: cute-shorts
+price: 50
+
+Inventory Number: mens sneakers Item Number 0
+username: ADMIN
+name: Sneakers
+color: White
+description: Sneakers in faux leather with a padded top edge. Tongue and lacing at front. Mesh lining made from recycled polyester. Cotton canvas insoles. Patterned rubber soles.
+price: 29.99
+
+Inventory Number: mens sneakers Item Number 1
+username: ADMIN
+name: Sneakers
+color: White/blue
+description: Sneakers with a padded edge at top and lacing at front. Mesh lining, mesh insoles, and rubber soles.
+price: 29.99
+
+Inventory Number: mens sneakers Item Number 2
+username: ADMIN
+name: Sneakers
+color: Black
+description: Sneakers with a padded edge at top and lacing at front. Mesh lining, mesh insoles, and rubber soles.
+price: 29.99
+
+Inventory Number: womens shorts Item Number 0
+username: ADMIN
+name: Short Turtleneck Top
+color: White
+description: CUTEST SHORTS EVER!
+price: 9.99
+
+Inventory Number: womens shorts Item Number 1
+username: ADMIN
+name: Short Turtleneck Top
+color: Black
+description: Short turtleneck top in viscose jersey with long sleeves.
+price: 9.99
+
+Inventory Number: womens shorts Item Number 2
+username: ADMIN
+name: Short Turtleneck Top
+color: Light lavender
+description: Short turtleneck top in viscose jersey with long sleeves.
+price: 9.99
+
